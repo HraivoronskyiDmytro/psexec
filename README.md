@@ -1,2 +1,2 @@
 # psexec
-Psexec usage
+Psexec scripts samples 
